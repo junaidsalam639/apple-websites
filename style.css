@@ -1,0 +1,117 @@
+.btn1{
+     font-size: 30px;
+}
+.btn1:hover{
+    border-radius: 25px;
+    background-color: black;
+    color: red;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+li:hover{
+    color: #fff;
+}
+ul{
+    background-color: dimgray;
+}
+.container{
+    text-align: center;
+    background-image: url('https://www.apple.com/v/macbook-pro-14-and-16/d/images/overview/hero/hero_intro_endframe__e6khcva4hkeq_large.jpg');
+}
+.a1{
+    font-size: 25px;
+}
+.head1{
+    color: white;
+}
+.para2{
+    color: gray;
+    font-size: 25px;
+}
+.para1{
+    font-size: 30px;
+    color: white;
+}
+.div4{
+    text-align: center;
+}
+.div5{
+    text-align: center;
+}
+.div4{
+    /* background-image: url('https://live.staticflickr.com/193/442337651_c6dc5930e3_b.jpg'); */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcfjOMWxjsZhWpl1Oc5tKS55G_2kcCAKPOw&usqp=CAU');
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+.head3{
+    color: white;
+    font-size: 60px;
+}
+.para3{
+       font-size: 30px;
+       color: white;
+}
+.para4{
+       font-size: 25px;
+       color:darkslategray;
+}
+.para4:hover{
+    color:lime;
+}
+
+.div5{
+    /* background-image: url('https://www.apple.com/v/homepod-2nd-generation/a/images/overview/homepod_twins__gi5qodweaqie_large.jpg'); */
+    background-image: url('https://www.apple.com/newsroom/images/product/homepod/lifestyle/Apple-HomePod-hero-230118.jpg.landing-big_2x.jpg');
+}
+.a1:hover{
+    color: darkorange;
+}
+.had4{
+font-size: 60px;
+color: wheat;
+}
+.par2{
+font-size: 30px;
+color: wheat;
+}
+.par1{
+    font-size: 25px;
+    color: gray;
+}
+
+.divhead6{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.divhead10{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.a1{
+    color: deeppink;
+}
+
+
+
+
+
+
+
+
+
+
